@@ -10,4 +10,4 @@ Users should be able to:
 
 ## Screenshot
 
-<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
+<img src="tip-calculator-app-main/Screenshots/desktop-img.png" alt="Employee data" title="Employee Data title">
