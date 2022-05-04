@@ -10,6 +10,9 @@ Users should be able to:
 
 ## Screenshot
 
+### Desktop
 <img src="Screenshots/desktop-img.png" alt="tip calculator for desktop devices" title="Desktop image">
 
+
+### Mobile
 <img src="Screenshots/mobile-img.png" alt="tip calculator for mobile devices" title="Mobile image">
